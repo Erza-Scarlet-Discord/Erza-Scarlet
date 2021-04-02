@@ -5,5 +5,5 @@ This repository can be used to report bugs and see progress of erza scarlet
 [![Discord Bots](https://top.gg/api/widget/811859628342247424.svg)](https://top.gg/bot/811859628342247424)
 
 # support
-<iframe src="https://canary.discord.com/widget?id=808668756951826483&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![Discord Banner 1](https://discordapp.com/api/guilds/808668756951826483/widget.png?style=banner1)
 
