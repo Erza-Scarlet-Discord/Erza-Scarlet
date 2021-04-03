@@ -1,0 +1,13 @@
+{
+  
+  "main":"2.3 [pre release]",
+  "beta":"2.3 [beta]",
+  "alpha":"2.4 [alpha]",
+  "mainresponsegen":"[environ]erzaapis.herokuapp.com",
+  "basescript":"https://raw.githubusercontent.com/SashankV05/Erza-Scarlet/main/basescript.londb",
+  "db_ver":"2.0",
+  "melonapis":{"endpoint":"apis.melon.mainmodel.[environ.accesstoken].herokuapp.com"},
+  "melonapitoken":"[environ.melontoken]",
+  "errorwebhook":"[environ.info_logger_hook]"
+  
+}
