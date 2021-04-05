@@ -6,7 +6,7 @@
   "mainresponsegen":"[environ]erzaapis.herokuapp.com",
   "basescript":"https://raw.githubusercontent.com/SashankV05/Erza-Scarlet/main/basescript.londb",
   "db_ver":"2.0",
-  "melonapis":{"endpoint":"apis.melon.mainmodel.[environ.accesstoken].herokuapp.com"},
+  "melonapis":{"endpoint":"[environ.melonapp].herokuapp.com/v3/reponsegenerator/session/[db.session]/"},
   "melonapitoken":"[environ.melontoken]",
   "errorwebhook":"[environ.info_logger_hook]"
   
