@@ -1,6 +1,7 @@
 {
-"items" : 2,
-  "heading":"Version 2.3 released",
-  1:"Commands were added in this version",
-  2:"Fixed context management"
+  "items" : 3,
+  "heading":"V 2.3 Change log",
+  "1":"1) Commands were added in this version",
+  "2":"2) Fixed context management",
+  "3":"3) You can now view the development progress in https://github.com/SashankV05/Erza-Scarlet/projects/1"
 }
