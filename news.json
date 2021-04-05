@@ -2,6 +2,6 @@
   "items" : 3,
   "heading":"V 2.3 Change log",
   "1":"1) Commands were added in this version",
-  "2":"2) Fixed context management",
+  "2":"2) Erza now understands short forms and this feature is still in beta, only some selected servers will be able to use it",
   "3":"3) You can now view the development progress in https://github.com/SashankV05/Erza-Scarlet/projects/1"
 }
