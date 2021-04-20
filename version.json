@@ -1,8 +1,8 @@
 {
   
-  "main":"2.3.26",
-  "beta":"2.3.20 [beta]",
-  "alpha":"2.4 [alpha]",
+  "main":"2.4",
+  "beta":"2.4.20 [beta]",
+  "alpha":"2.5 [alpha]",
   "mainresponsegen":"[environ]erzaapis.herokuapp.com",
   "basescript":"https://raw.githubusercontent.com/SashankV05/Erza-Scarlet/main/basescript.londb",
   "db_ver":"2.0",
