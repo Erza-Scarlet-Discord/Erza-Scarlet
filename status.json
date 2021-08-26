@@ -1,4 +1,4 @@
 {
-  "statuslist" : ["with SH4NK", ".e help", " in {len(bot.guilds)}", "with humans"],
+  "statuslist" : ["with Natsu", ".e help", "with responses", "with humans"],
   "info" : "This JSON file consists of statuses which are used by the bot and they are set in random (this can be used to change without rebooting the bot)"
 }
