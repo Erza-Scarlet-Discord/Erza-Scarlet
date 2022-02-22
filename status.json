@@ -1,4 +1,4 @@
 {
-  "statuslist" : ["waiting for new version!"],
+  "statuslist" : ["with humans", "V5!", "with GPT", "with responses!", "with votes!"],
   "info" : "This JSON file consists of statuses which are used by the bot and they are set in random (this can be used to change without rebooting the bot)"
 }
